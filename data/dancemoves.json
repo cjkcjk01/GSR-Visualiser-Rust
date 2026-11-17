@@ -1,0 +1,3265 @@
+[
+  [
+    [
+      {
+        "pos_y": -90,
+        "pos_x": 0,
+        "name": "Head"
+      },
+      {
+        "pos_y": -40,
+        "pos_x": 0,
+        "name": "Shoulders"
+      },
+      {
+        "pos_y": 40,
+        "pos_x": 10,
+        "name": "Hips"
+      },
+      {
+        "pos_y": -130,
+        "pos_x": -80,
+        "name": "Left hand"
+      },
+      {
+        "pos_y": -130,
+        "pos_x": 80,
+        "name": "Right hand"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": -40,
+        "name": "Left foot"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": 40,
+        "name": "Right foot"
+      },
+      {
+        "pos_y": -80,
+        "pos_x": -40,
+        "name": "Left elbow"
+      },
+      {
+        "pos_y": -70,
+        "pos_x": 30,
+        "name": "Right elbow"
+      },
+      {
+        "pos_y": 90,
+        "pos_x": -20,
+        "name": "Left knee"
+      },
+      {
+        "pos_y": 90,
+        "pos_x": 20,
+        "name": "Right knee"
+      }
+    ],
+    [
+      {
+        "pos_y": -90,
+        "pos_x": 0,
+        "name": "Head"
+      },
+      {
+        "pos_y": -40,
+        "pos_x": 0,
+        "name": "Shoulders"
+      },
+      {
+        "pos_y": 40,
+        "pos_x": -10,
+        "name": "Hips"
+      },
+      {
+        "pos_y": -130,
+        "pos_x": -80,
+        "name": "Left hand"
+      },
+      {
+        "pos_y": -130,
+        "pos_x": 80,
+        "name": "Right hand"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": -40,
+        "name": "Left foot"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": 40,
+        "name": "Right foot"
+      },
+      {
+        "pos_y": -80,
+        "pos_x": -40,
+        "name": "Left elbow"
+      },
+      {
+        "pos_y": -70,
+        "pos_x": 30,
+        "name": "Right elbow"
+      },
+      {
+        "pos_y": 90,
+        "pos_x": -10,
+        "name": "Left knee"
+      },
+      {
+        "pos_y": 90,
+        "pos_x": 30,
+        "name": "Right knee"
+      }
+    ],
+    [
+      {
+        "pos_y": -90,
+        "pos_x": 0,
+        "name": "Head"
+      },
+      {
+        "pos_y": -40,
+        "pos_x": 0,
+        "name": "Shoulders"
+      },
+      {
+        "pos_y": 40,
+        "pos_x": 10,
+        "name": "Hips"
+      },
+      {
+        "pos_y": -130,
+        "pos_x": -80,
+        "name": "Left hand"
+      },
+      {
+        "pos_y": -100,
+        "pos_x": 40,
+        "name": "Right hand"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": -40,
+        "name": "Left foot"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": 40,
+        "name": "Right foot"
+      },
+      {
+        "pos_y": -80,
+        "pos_x": -40,
+        "name": "Left elbow"
+      },
+      {
+        "pos_y": -60,
+        "pos_x": 50,
+        "name": "Right elbow"
+      },
+      {
+        "pos_y": 90,
+        "pos_x": -20,
+        "name": "Left knee"
+      },
+      {
+        "pos_y": 90,
+        "pos_x": 20,
+        "name": "Right knee"
+      }
+    ],
+    [
+      {
+        "pos_y": -90,
+        "pos_x": 0,
+        "name": "Head"
+      },
+      {
+        "pos_y": -40,
+        "pos_x": 0,
+        "name": "Shoulders"
+      },
+      {
+        "pos_y": 40,
+        "pos_x": -10,
+        "name": "Hips"
+      },
+      {
+        "pos_y": -100,
+        "pos_x": -40,
+        "name": "Left hand"
+      },
+      {
+        "pos_y": -100,
+        "pos_x": 40,
+        "name": "Right hand"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": -40,
+        "name": "Left foot"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": 40,
+        "name": "Right foot"
+      },
+      {
+        "pos_y": -60,
+        "pos_x": -50,
+        "name": "Left elbow"
+      },
+      {
+        "pos_y": -60,
+        "pos_x": 50,
+        "name": "Right elbow"
+      },
+      {
+        "pos_y": 90,
+        "pos_x": -10,
+        "name": "Left knee"
+      },
+      {
+        "pos_y": 90,
+        "pos_x": 30,
+        "name": "Right knee"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "pos_y": -90,
+        "pos_x": 0,
+        "name": "Head"
+      },
+      {
+        "pos_y": -40,
+        "pos_x": 0,
+        "name": "Shoulders"
+      },
+      {
+        "pos_y": 40,
+        "pos_x": 0,
+        "name": "Hips"
+      },
+      {
+        "pos_y": 30,
+        "pos_x": -30,
+        "name": "Left hand"
+      },
+      {
+        "pos_y": 30,
+        "pos_x": 30,
+        "name": "Right hand"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": -40,
+        "name": "Left foot"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": 40,
+        "name": "Right foot"
+      },
+      {
+        "pos_y": 0,
+        "pos_x": -30,
+        "name": "Left elbow"
+      },
+      {
+        "pos_y": 0,
+        "pos_x": 30,
+        "name": "Right elbow"
+      },
+      {
+        "pos_y": 80,
+        "pos_x": -20,
+        "name": "Left knee"
+      },
+      {
+        "pos_y": 80,
+        "pos_x": 20,
+        "name": "Right knee"
+      }
+    ],
+    [
+      {
+        "pos_y": -90,
+        "pos_x": 0,
+        "name": "Head"
+      },
+      {
+        "pos_y": -40,
+        "pos_x": 0,
+        "name": "Shoulders"
+      },
+      {
+        "pos_y": 40,
+        "pos_x": 0,
+        "name": "Hips"
+      },
+      {
+        "pos_y": -60,
+        "pos_x": -80,
+        "name": "Left hand"
+      },
+      {
+        "pos_y": 20,
+        "pos_x": 30,
+        "name": "Right hand"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": -40,
+        "name": "Left foot"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": 40,
+        "name": "Right foot"
+      },
+      {
+        "pos_y": -50,
+        "pos_x": -40,
+        "name": "Left elbow"
+      },
+      {
+        "pos_y": -20,
+        "pos_x": 30,
+        "name": "Right elbow"
+      },
+      {
+        "pos_y": 80,
+        "pos_x": -20,
+        "name": "Left knee"
+      },
+      {
+        "pos_y": 80,
+        "pos_x": 20,
+        "name": "Right knee"
+      }
+    ],
+    [
+      {
+        "pos_y": -90,
+        "pos_x": 0,
+        "name": "Head"
+      },
+      {
+        "pos_y": -40,
+        "pos_x": 0,
+        "name": "Shoulders"
+      },
+      {
+        "pos_y": 40,
+        "pos_x": 0,
+        "name": "Hips"
+      },
+      {
+        "pos_y": -60,
+        "pos_x": -80,
+        "name": "Left hand"
+      },
+      {
+        "pos_y": -60,
+        "pos_x": 90,
+        "name": "Right hand"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": -40,
+        "name": "Left foot"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": 40,
+        "name": "Right foot"
+      },
+      {
+        "pos_y": -50,
+        "pos_x": -40,
+        "name": "Left elbow"
+      },
+      {
+        "pos_y": -50,
+        "pos_x": 40,
+        "name": "Right elbow"
+      },
+      {
+        "pos_y": 80,
+        "pos_x": -20,
+        "name": "Left knee"
+      },
+      {
+        "pos_y": 80,
+        "pos_x": 20,
+        "name": "Right knee"
+      }
+    ],
+    [
+      {
+        "pos_y": -90,
+        "pos_x": 0,
+        "name": "Head"
+      },
+      {
+        "pos_y": -40,
+        "pos_x": 0,
+        "name": "Shoulders"
+      },
+      {
+        "pos_y": 40,
+        "pos_x": 0,
+        "name": "Hips"
+      },
+      {
+        "pos_y": -110,
+        "pos_x": -40,
+        "name": "Left hand"
+      },
+      {
+        "pos_y": -60,
+        "pos_x": 90,
+        "name": "Right hand"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": -40,
+        "name": "Left foot"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": 40,
+        "name": "Right foot"
+      },
+      {
+        "pos_y": -60,
+        "pos_x": -50,
+        "name": "Left elbow"
+      },
+      {
+        "pos_y": -50,
+        "pos_x": 40,
+        "name": "Right elbow"
+      },
+      {
+        "pos_y": 80,
+        "pos_x": -20,
+        "name": "Left knee"
+      },
+      {
+        "pos_y": 80,
+        "pos_x": 20,
+        "name": "Right knee"
+      }
+    ],
+    [
+      {
+        "pos_y": -90,
+        "pos_x": 0,
+        "name": "Head"
+      },
+      {
+        "pos_y": -40,
+        "pos_x": 0,
+        "name": "Shoulders"
+      },
+      {
+        "pos_y": 40,
+        "pos_x": 0,
+        "name": "Hips"
+      },
+      {
+        "pos_y": -110,
+        "pos_x": -40,
+        "name": "Left hand"
+      },
+      {
+        "pos_y": -110,
+        "pos_x": 40,
+        "name": "Right hand"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": -40,
+        "name": "Left foot"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": 40,
+        "name": "Right foot"
+      },
+      {
+        "pos_y": -60,
+        "pos_x": -50,
+        "name": "Left elbow"
+      },
+      {
+        "pos_y": -60,
+        "pos_x": 50,
+        "name": "Right elbow"
+      },
+      {
+        "pos_y": 80,
+        "pos_x": -20,
+        "name": "Left knee"
+      },
+      {
+        "pos_y": 80,
+        "pos_x": 20,
+        "name": "Right knee"
+      }
+    ],
+    [
+      {
+        "pos_y": -90,
+        "pos_x": 0,
+        "name": "Head"
+      },
+      {
+        "pos_y": -40,
+        "pos_x": 0,
+        "name": "Shoulders"
+      },
+      {
+        "pos_y": 40,
+        "pos_x": 0,
+        "name": "Hips"
+      },
+      {
+        "pos_y": -60,
+        "pos_x": -40,
+        "name": "Left hand"
+      },
+      {
+        "pos_y": -110,
+        "pos_x": 40,
+        "name": "Right hand"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": -40,
+        "name": "Left foot"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": 40,
+        "name": "Right foot"
+      },
+      {
+        "pos_y": -40,
+        "pos_x": -50,
+        "name": "Left elbow"
+      },
+      {
+        "pos_y": -60,
+        "pos_x": 50,
+        "name": "Right elbow"
+      },
+      {
+        "pos_y": 80,
+        "pos_x": -20,
+        "name": "Left knee"
+      },
+      {
+        "pos_y": 80,
+        "pos_x": 20,
+        "name": "Right knee"
+      }
+    ],
+    [
+      {
+        "pos_y": -90,
+        "pos_x": 0,
+        "name": "Head"
+      },
+      {
+        "pos_y": -40,
+        "pos_x": 0,
+        "name": "Shoulders"
+      },
+      {
+        "pos_y": 40,
+        "pos_x": 0,
+        "name": "Hips"
+      },
+      {
+        "pos_y": -60,
+        "pos_x": -40,
+        "name": "Left hand"
+      },
+      {
+        "pos_y": -60,
+        "pos_x": 40,
+        "name": "Right hand"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": -40,
+        "name": "Left foot"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": 40,
+        "name": "Right foot"
+      },
+      {
+        "pos_y": -40,
+        "pos_x": -50,
+        "name": "Left elbow"
+      },
+      {
+        "pos_y": -40,
+        "pos_x": 50,
+        "name": "Right elbow"
+      },
+      {
+        "pos_y": 80,
+        "pos_x": -20,
+        "name": "Left knee"
+      },
+      {
+        "pos_y": 80,
+        "pos_x": 20,
+        "name": "Right knee"
+      }
+    ],
+    [
+      {
+        "pos_y": -90,
+        "pos_x": 0,
+        "name": "Head"
+      },
+      {
+        "pos_y": -40,
+        "pos_x": 0,
+        "name": "Shoulders"
+      },
+      {
+        "pos_y": 40,
+        "pos_x": 0,
+        "name": "Hips"
+      },
+      {
+        "pos_y": -40,
+        "pos_x": -90,
+        "name": "Left hand"
+      },
+      {
+        "pos_y": -60,
+        "pos_x": 40,
+        "name": "Right hand"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": -40,
+        "name": "Left foot"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": 40,
+        "name": "Right foot"
+      },
+      {
+        "pos_y": -40,
+        "pos_x": -50,
+        "name": "Left elbow"
+      },
+      {
+        "pos_y": -40,
+        "pos_x": 50,
+        "name": "Right elbow"
+      },
+      {
+        "pos_y": 80,
+        "pos_x": -20,
+        "name": "Left knee"
+      },
+      {
+        "pos_y": 80,
+        "pos_x": 20,
+        "name": "Right knee"
+      }
+    ],
+    [
+      {
+        "pos_y": -90,
+        "pos_x": 0,
+        "name": "Head"
+      },
+      {
+        "pos_y": -40,
+        "pos_x": 0,
+        "name": "Shoulders"
+      },
+      {
+        "pos_y": 40,
+        "pos_x": 0,
+        "name": "Hips"
+      },
+      {
+        "pos_y": -40,
+        "pos_x": -80,
+        "name": "Left hand"
+      },
+      {
+        "pos_y": -40,
+        "pos_x": 80,
+        "name": "Right hand"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": -40,
+        "name": "Left foot"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": 40,
+        "name": "Right foot"
+      },
+      {
+        "pos_y": -30,
+        "pos_x": -40,
+        "name": "Left elbow"
+      },
+      {
+        "pos_y": -30,
+        "pos_x": 40,
+        "name": "Right elbow"
+      },
+      {
+        "pos_y": 80,
+        "pos_x": -20,
+        "name": "Left knee"
+      },
+      {
+        "pos_y": 80,
+        "pos_x": 20,
+        "name": "Right knee"
+      }
+    ],
+    [
+      {
+        "pos_y": -90,
+        "pos_x": 0,
+        "name": "Head"
+      },
+      {
+        "pos_y": -40,
+        "pos_x": 0,
+        "name": "Shoulders"
+      },
+      {
+        "pos_y": 40,
+        "pos_x": 0,
+        "name": "Hips"
+      },
+      {
+        "pos_y": -10,
+        "pos_x": -10,
+        "name": "Left hand"
+      },
+      {
+        "pos_y": -40,
+        "pos_x": 80,
+        "name": "Right hand"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": -40,
+        "name": "Left foot"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": 40,
+        "name": "Right foot"
+      },
+      {
+        "pos_y": -10,
+        "pos_x": -40,
+        "name": "Left elbow"
+      },
+      {
+        "pos_y": -30,
+        "pos_x": 40,
+        "name": "Right elbow"
+      },
+      {
+        "pos_y": 80,
+        "pos_x": -20,
+        "name": "Left knee"
+      },
+      {
+        "pos_y": 80,
+        "pos_x": 20,
+        "name": "Right knee"
+      }
+    ],
+    [
+      {
+        "pos_y": -90,
+        "pos_x": 0,
+        "name": "Head"
+      },
+      {
+        "pos_y": -40,
+        "pos_x": 0,
+        "name": "Shoulders"
+      },
+      {
+        "pos_y": 40,
+        "pos_x": 0,
+        "name": "Hips"
+      },
+      {
+        "pos_y": -10,
+        "pos_x": -10,
+        "name": "Left hand"
+      },
+      {
+        "pos_y": -10,
+        "pos_x": 10,
+        "name": "Right hand"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": -40,
+        "name": "Left foot"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": 40,
+        "name": "Right foot"
+      },
+      {
+        "pos_y": -10,
+        "pos_x": -40,
+        "name": "Left elbow"
+      },
+      {
+        "pos_y": -10,
+        "pos_x": 40,
+        "name": "Right elbow"
+      },
+      {
+        "pos_y": 80,
+        "pos_x": -20,
+        "name": "Left knee"
+      },
+      {
+        "pos_y": 80,
+        "pos_x": 20,
+        "name": "Right knee"
+      }
+    ],
+    [
+      {
+        "pos_y": -90,
+        "pos_x": 0,
+        "name": "Head"
+      },
+      {
+        "pos_y": -40,
+        "pos_x": 0,
+        "name": "Shoulders"
+      },
+      {
+        "pos_y": 40,
+        "pos_x": 0,
+        "name": "Hips"
+      },
+      {
+        "pos_y": -80,
+        "pos_x": -30,
+        "name": "Left hand"
+      },
+      {
+        "pos_y": -10,
+        "pos_x": 10,
+        "name": "Right hand"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": -40,
+        "name": "Left foot"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": 40,
+        "name": "Right foot"
+      },
+      {
+        "pos_y": -20,
+        "pos_x": -50,
+        "name": "Left elbow"
+      },
+      {
+        "pos_y": -10,
+        "pos_x": 40,
+        "name": "Right elbow"
+      },
+      {
+        "pos_y": 80,
+        "pos_x": -20,
+        "name": "Left knee"
+      },
+      {
+        "pos_y": 80,
+        "pos_x": 20,
+        "name": "Right knee"
+      }
+    ],
+    [
+      {
+        "pos_y": -90,
+        "pos_x": 0,
+        "name": "Head"
+      },
+      {
+        "pos_y": -40,
+        "pos_x": 0,
+        "name": "Shoulders"
+      },
+      {
+        "pos_y": 40,
+        "pos_x": 0,
+        "name": "Hips"
+      },
+      {
+        "pos_y": -80,
+        "pos_x": -30,
+        "name": "Left hand"
+      },
+      {
+        "pos_y": -80,
+        "pos_x": 30,
+        "name": "Right hand"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": -40,
+        "name": "Left foot"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": 40,
+        "name": "Right foot"
+      },
+      {
+        "pos_y": -20,
+        "pos_x": -50,
+        "name": "Left elbow"
+      },
+      {
+        "pos_y": -20,
+        "pos_x": 50,
+        "name": "Right elbow"
+      },
+      {
+        "pos_y": 80,
+        "pos_x": -20,
+        "name": "Left knee"
+      },
+      {
+        "pos_y": 80,
+        "pos_x": 20,
+        "name": "Right knee"
+      }
+    ],
+    [
+      {
+        "pos_y": -90,
+        "pos_x": 0,
+        "name": "Head"
+      },
+      {
+        "pos_y": -40,
+        "pos_x": 0,
+        "name": "Shoulders"
+      },
+      {
+        "pos_y": 40,
+        "pos_x": 0,
+        "name": "Hips"
+      },
+      {
+        "pos_y": -80,
+        "pos_x": -80,
+        "name": "Left hand"
+      },
+      {
+        "pos_y": -80,
+        "pos_x": 30,
+        "name": "Right hand"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": -40,
+        "name": "Left foot"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": 40,
+        "name": "Right foot"
+      },
+      {
+        "pos_y": -50,
+        "pos_x": -40,
+        "name": "Left elbow"
+      },
+      {
+        "pos_y": -20,
+        "pos_x": 50,
+        "name": "Right elbow"
+      },
+      {
+        "pos_y": 80,
+        "pos_x": -20,
+        "name": "Left knee"
+      },
+      {
+        "pos_y": 80,
+        "pos_x": 20,
+        "name": "Right knee"
+      }
+    ],
+    [
+      {
+        "pos_y": -90,
+        "pos_x": 0,
+        "name": "Head"
+      },
+      {
+        "pos_y": -40,
+        "pos_x": 0,
+        "name": "Shoulders"
+      },
+      {
+        "pos_y": 40,
+        "pos_x": 0,
+        "name": "Hips"
+      },
+      {
+        "pos_y": -80,
+        "pos_x": -80,
+        "name": "Left hand"
+      },
+      {
+        "pos_y": -80,
+        "pos_x": 70,
+        "name": "Right hand"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": -40,
+        "name": "Left foot"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": 40,
+        "name": "Right foot"
+      },
+      {
+        "pos_y": -50,
+        "pos_x": -40,
+        "name": "Left elbow"
+      },
+      {
+        "pos_y": -50,
+        "pos_x": 40,
+        "name": "Right elbow"
+      },
+      {
+        "pos_y": 80,
+        "pos_x": -20,
+        "name": "Left knee"
+      },
+      {
+        "pos_y": 80,
+        "pos_x": 20,
+        "name": "Right knee"
+      }
+    ],
+    [
+      {
+        "pos_y": -90,
+        "pos_x": 0,
+        "name": "Head"
+      },
+      {
+        "pos_y": -40,
+        "pos_x": 0,
+        "name": "Shoulders"
+      },
+      {
+        "pos_y": 40,
+        "pos_x": 0,
+        "name": "Hips"
+      },
+      {
+        "pos_y": 30,
+        "pos_x": -30,
+        "name": "Left hand"
+      },
+      {
+        "pos_y": 30,
+        "pos_x": 30,
+        "name": "Right hand"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": -40,
+        "name": "Left foot"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": 40,
+        "name": "Right foot"
+      },
+      {
+        "pos_y": 0,
+        "pos_x": -30,
+        "name": "Left elbow"
+      },
+      {
+        "pos_y": 0,
+        "pos_x": 30,
+        "name": "Right elbow"
+      },
+      {
+        "pos_y": 80,
+        "pos_x": -20,
+        "name": "Left knee"
+      },
+      {
+        "pos_y": 80,
+        "pos_x": 20,
+        "name": "Right knee"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "pos_y": -90,
+        "pos_x": 0,
+        "name": "Head"
+      },
+      {
+        "pos_y": -40,
+        "pos_x": 0,
+        "name": "Shoulders"
+      },
+      {
+        "pos_y": 40,
+        "pos_x": 0,
+        "name": "Hips"
+      },
+      {
+        "pos_y": 20,
+        "pos_x": -20,
+        "name": "Left hand"
+      },
+      {
+        "pos_y": 20,
+        "pos_x": 10,
+        "name": "Right hand"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": -40,
+        "name": "Left foot"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": 40,
+        "name": "Right foot"
+      },
+      {
+        "pos_y": -20,
+        "pos_x": -10,
+        "name": "Left elbow"
+      },
+      {
+        "pos_y": -20,
+        "pos_x": 10,
+        "name": "Right elbow"
+      },
+      {
+        "pos_y": 90,
+        "pos_x": -20,
+        "name": "Left knee"
+      },
+      {
+        "pos_y": 90,
+        "pos_x": 20,
+        "name": "Right knee"
+      }
+    ],
+    [
+      {
+        "pos_y": -90,
+        "pos_x": 0,
+        "name": "Head"
+      },
+      {
+        "pos_y": -40,
+        "pos_x": 0,
+        "name": "Shoulders"
+      },
+      {
+        "pos_y": 40,
+        "pos_x": 0,
+        "name": "Hips"
+      },
+      {
+        "pos_y": 20,
+        "pos_x": -20,
+        "name": "Left hand"
+      },
+      {
+        "pos_y": 20,
+        "pos_x": 20,
+        "name": "Right hand"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": -40,
+        "name": "Left foot"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": 40,
+        "name": "Right foot"
+      },
+      {
+        "pos_y": -20,
+        "pos_x": -10,
+        "name": "Left elbow"
+      },
+      {
+        "pos_y": -20,
+        "pos_x": 10,
+        "name": "Right elbow"
+      },
+      {
+        "pos_y": 90,
+        "pos_x": -20,
+        "name": "Left knee"
+      },
+      {
+        "pos_y": 90,
+        "pos_x": 20,
+        "name": "Right knee"
+      }
+    ],
+    [
+      {
+        "pos_y": -90,
+        "pos_x": 0,
+        "name": "Head"
+      },
+      {
+        "pos_y": -40,
+        "pos_x": 0,
+        "name": "Shoulders"
+      },
+      {
+        "pos_y": 40,
+        "pos_x": 0,
+        "name": "Hips"
+      },
+      {
+        "pos_y": 0,
+        "pos_x": -30,
+        "name": "Left hand"
+      },
+      {
+        "pos_y": 20,
+        "pos_x": 20,
+        "name": "Right hand"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": -40,
+        "name": "Left foot"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": 40,
+        "name": "Right foot"
+      },
+      {
+        "pos_y": -20,
+        "pos_x": -10,
+        "name": "Left elbow"
+      },
+      {
+        "pos_y": -20,
+        "pos_x": 10,
+        "name": "Right elbow"
+      },
+      {
+        "pos_y": 90,
+        "pos_x": -20,
+        "name": "Left knee"
+      },
+      {
+        "pos_y": 90,
+        "pos_x": 20,
+        "name": "Right knee"
+      }
+    ],
+    [
+      {
+        "pos_y": -90,
+        "pos_x": 0,
+        "name": "Head"
+      },
+      {
+        "pos_y": -40,
+        "pos_x": 0,
+        "name": "Shoulders"
+      },
+      {
+        "pos_y": 40,
+        "pos_x": 0,
+        "name": "Hips"
+      },
+      {
+        "pos_y": 0,
+        "pos_x": -30,
+        "name": "Left hand"
+      },
+      {
+        "pos_y": 0,
+        "pos_x": 30,
+        "name": "Right hand"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": -40,
+        "name": "Left foot"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": 40,
+        "name": "Right foot"
+      },
+      {
+        "pos_y": -20,
+        "pos_x": -10,
+        "name": "Left elbow"
+      },
+      {
+        "pos_y": -20,
+        "pos_x": 10,
+        "name": "Right elbow"
+      },
+      {
+        "pos_y": 90,
+        "pos_x": -20,
+        "name": "Left knee"
+      },
+      {
+        "pos_y": 90,
+        "pos_x": 20,
+        "name": "Right knee"
+      }
+    ],
+    [
+      {
+        "pos_y": -90,
+        "pos_x": 0,
+        "name": "Head"
+      },
+      {
+        "pos_y": -40,
+        "pos_x": 0,
+        "name": "Shoulders"
+      },
+      {
+        "pos_y": 40,
+        "pos_x": 0,
+        "name": "Hips"
+      },
+      {
+        "pos_y": -20,
+        "pos_x": 10,
+        "name": "Left hand"
+      },
+      {
+        "pos_y": 0,
+        "pos_x": 20,
+        "name": "Right hand"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": -40,
+        "name": "Left foot"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": 40,
+        "name": "Right foot"
+      },
+      {
+        "pos_y": -10,
+        "pos_x": -40,
+        "name": "Left elbow"
+      },
+      {
+        "pos_y": -20,
+        "pos_x": 10,
+        "name": "Right elbow"
+      },
+      {
+        "pos_y": 90,
+        "pos_x": -20,
+        "name": "Left knee"
+      },
+      {
+        "pos_y": 90,
+        "pos_x": 20,
+        "name": "Right knee"
+      }
+    ],
+    [
+      {
+        "pos_y": -90,
+        "pos_x": 0,
+        "name": "Head"
+      },
+      {
+        "pos_y": -40,
+        "pos_x": 0,
+        "name": "Shoulders"
+      },
+      {
+        "pos_y": 40,
+        "pos_x": 0,
+        "name": "Hips"
+      },
+      {
+        "pos_y": -20,
+        "pos_x": 10,
+        "name": "Left hand"
+      },
+      {
+        "pos_y": -20,
+        "pos_x": -10,
+        "name": "Right hand"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": -40,
+        "name": "Left foot"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": 40,
+        "name": "Right foot"
+      },
+      {
+        "pos_y": -10,
+        "pos_x": -40,
+        "name": "Left elbow"
+      },
+      {
+        "pos_y": -10,
+        "pos_x": 40,
+        "name": "Right elbow"
+      },
+      {
+        "pos_y": 90,
+        "pos_x": -20,
+        "name": "Left knee"
+      },
+      {
+        "pos_y": 90,
+        "pos_x": 20,
+        "name": "Right knee"
+      }
+    ],
+    [
+      {
+        "pos_y": -90,
+        "pos_x": 0,
+        "name": "Head"
+      },
+      {
+        "pos_y": -40,
+        "pos_x": 0,
+        "name": "Shoulders"
+      },
+      {
+        "pos_y": 40,
+        "pos_x": 0,
+        "name": "Hips"
+      },
+      {
+        "pos_y": -100,
+        "pos_x": -30,
+        "name": "Left hand"
+      },
+      {
+        "pos_y": -20,
+        "pos_x": -10,
+        "name": "Right hand"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": -40,
+        "name": "Left foot"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": 40,
+        "name": "Right foot"
+      },
+      {
+        "pos_y": -60,
+        "pos_x": -40,
+        "name": "Left elbow"
+      },
+      {
+        "pos_y": -10,
+        "pos_x": 30,
+        "name": "Right elbow"
+      },
+      {
+        "pos_y": 90,
+        "pos_x": -20,
+        "name": "Left knee"
+      },
+      {
+        "pos_y": 90,
+        "pos_x": 20,
+        "name": "Right knee"
+      }
+    ],
+    [
+      {
+        "pos_y": -90,
+        "pos_x": 0,
+        "name": "Head"
+      },
+      {
+        "pos_y": -40,
+        "pos_x": 0,
+        "name": "Shoulders"
+      },
+      {
+        "pos_y": 40,
+        "pos_x": 0,
+        "name": "Hips"
+      },
+      {
+        "pos_y": -100,
+        "pos_x": -30,
+        "name": "Left hand"
+      },
+      {
+        "pos_y": -100,
+        "pos_x": 30,
+        "name": "Right hand"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": -40,
+        "name": "Left foot"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": 40,
+        "name": "Right foot"
+      },
+      {
+        "pos_y": -60,
+        "pos_x": -40,
+        "name": "Left elbow"
+      },
+      {
+        "pos_y": -60,
+        "pos_x": 40,
+        "name": "Right elbow"
+      },
+      {
+        "pos_y": 90,
+        "pos_x": -20,
+        "name": "Left knee"
+      },
+      {
+        "pos_y": 90,
+        "pos_x": 20,
+        "name": "Right knee"
+      }
+    ],
+    [
+      {
+        "pos_y": -90,
+        "pos_x": 0,
+        "name": "Head"
+      },
+      {
+        "pos_y": -40,
+        "pos_x": 0,
+        "name": "Shoulders"
+      },
+      {
+        "pos_y": 40,
+        "pos_x": 0,
+        "name": "Hips"
+      },
+      {
+        "pos_y": 30,
+        "pos_x": 20,
+        "name": "Left hand"
+      },
+      {
+        "pos_y": -100,
+        "pos_x": 30,
+        "name": "Right hand"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": -40,
+        "name": "Left foot"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": 40,
+        "name": "Right foot"
+      },
+      {
+        "pos_y": -10,
+        "pos_x": -30,
+        "name": "Left elbow"
+      },
+      {
+        "pos_y": -60,
+        "pos_x": 40,
+        "name": "Right elbow"
+      },
+      {
+        "pos_y": 90,
+        "pos_x": -20,
+        "name": "Left knee"
+      },
+      {
+        "pos_y": 90,
+        "pos_x": 20,
+        "name": "Right knee"
+      }
+    ],
+    [
+      {
+        "pos_y": -90,
+        "pos_x": 0,
+        "name": "Head"
+      },
+      {
+        "pos_y": -40,
+        "pos_x": 0,
+        "name": "Shoulders"
+      },
+      {
+        "pos_y": 40,
+        "pos_x": 0,
+        "name": "Hips"
+      },
+      {
+        "pos_y": 30,
+        "pos_x": 20,
+        "name": "Left hand"
+      },
+      {
+        "pos_y": 30,
+        "pos_x": -20,
+        "name": "Right hand"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": -40,
+        "name": "Left foot"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": 40,
+        "name": "Right foot"
+      },
+      {
+        "pos_y": -10,
+        "pos_x": -30,
+        "name": "Left elbow"
+      },
+      {
+        "pos_y": -10,
+        "pos_x": 30,
+        "name": "Right elbow"
+      },
+      {
+        "pos_y": 90,
+        "pos_x": -20,
+        "name": "Left knee"
+      },
+      {
+        "pos_y": 90,
+        "pos_x": 20,
+        "name": "Right knee"
+      }
+    ],
+    [
+      {
+        "pos_y": -90,
+        "pos_x": 0,
+        "name": "Head"
+      },
+      {
+        "pos_y": -40,
+        "pos_x": 0,
+        "name": "Shoulders"
+      },
+      {
+        "pos_y": 40,
+        "pos_x": 0,
+        "name": "Hips"
+      },
+      {
+        "pos_y": 40,
+        "pos_x": -20,
+        "name": "Left hand"
+      },
+      {
+        "pos_y": 30,
+        "pos_x": -20,
+        "name": "Right hand"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": -40,
+        "name": "Left foot"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": 40,
+        "name": "Right foot"
+      },
+      {
+        "pos_y": -10,
+        "pos_x": -30,
+        "name": "Left elbow"
+      },
+      {
+        "pos_y": -10,
+        "pos_x": 30,
+        "name": "Right elbow"
+      },
+      {
+        "pos_y": 90,
+        "pos_x": -20,
+        "name": "Left knee"
+      },
+      {
+        "pos_y": 90,
+        "pos_x": 20,
+        "name": "Right knee"
+      }
+    ],
+    [
+      {
+        "pos_y": -90,
+        "pos_x": 0,
+        "name": "Head"
+      },
+      {
+        "pos_y": -40,
+        "pos_x": 0,
+        "name": "Shoulders"
+      },
+      {
+        "pos_y": 40,
+        "pos_x": 0,
+        "name": "Hips"
+      },
+      {
+        "pos_y": 40,
+        "pos_x": -20,
+        "name": "Left hand"
+      },
+      {
+        "pos_y": 40,
+        "pos_x": 20,
+        "name": "Right hand"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": -40,
+        "name": "Left foot"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": 40,
+        "name": "Right foot"
+      },
+      {
+        "pos_y": -10,
+        "pos_x": -30,
+        "name": "Left elbow"
+      },
+      {
+        "pos_y": -10,
+        "pos_x": 30,
+        "name": "Right elbow"
+      },
+      {
+        "pos_y": 90,
+        "pos_x": -20,
+        "name": "Left knee"
+      },
+      {
+        "pos_y": 90,
+        "pos_x": 20,
+        "name": "Right knee"
+      }
+    ],
+    [
+      {
+        "pos_y": -90,
+        "pos_x": 0,
+        "name": "Head"
+      },
+      {
+        "pos_y": -40,
+        "pos_x": 0,
+        "name": "Shoulders"
+      },
+      {
+        "pos_y": 40,
+        "pos_x": 10,
+        "name": "Hips"
+      },
+      {
+        "pos_y": 40,
+        "pos_x": -20,
+        "name": "Left hand"
+      },
+      {
+        "pos_y": 40,
+        "pos_x": 20,
+        "name": "Right hand"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": -40,
+        "name": "Left foot"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": 40,
+        "name": "Right foot"
+      },
+      {
+        "pos_y": -10,
+        "pos_x": -30,
+        "name": "Left elbow"
+      },
+      {
+        "pos_y": -10,
+        "pos_x": 30,
+        "name": "Right elbow"
+      },
+      {
+        "pos_y": 90,
+        "pos_x": -20,
+        "name": "Left knee"
+      },
+      {
+        "pos_y": 90,
+        "pos_x": 20,
+        "name": "Right knee"
+      }
+    ],
+    [
+      {
+        "pos_y": -90,
+        "pos_x": 0,
+        "name": "Head"
+      },
+      {
+        "pos_y": -40,
+        "pos_x": 0,
+        "name": "Shoulders"
+      },
+      {
+        "pos_y": 40,
+        "pos_x": -10,
+        "name": "Hips"
+      },
+      {
+        "pos_y": 40,
+        "pos_x": -20,
+        "name": "Left hand"
+      },
+      {
+        "pos_y": 40,
+        "pos_x": 20,
+        "name": "Right hand"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": -40,
+        "name": "Left foot"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": 40,
+        "name": "Right foot"
+      },
+      {
+        "pos_y": -10,
+        "pos_x": -30,
+        "name": "Left elbow"
+      },
+      {
+        "pos_y": -10,
+        "pos_x": 30,
+        "name": "Right elbow"
+      },
+      {
+        "pos_y": 90,
+        "pos_x": -20,
+        "name": "Left knee"
+      },
+      {
+        "pos_y": 90,
+        "pos_x": 20,
+        "name": "Right knee"
+      }
+    ],
+    [
+      {
+        "pos_y": -90,
+        "pos_x": 0,
+        "name": "Head"
+      },
+      {
+        "pos_y": -40,
+        "pos_x": 0,
+        "name": "Shoulders"
+      },
+      {
+        "pos_y": 40,
+        "pos_x": 10,
+        "name": "Hips"
+      },
+      {
+        "pos_y": 40,
+        "pos_x": -20,
+        "name": "Left hand"
+      },
+      {
+        "pos_y": 40,
+        "pos_x": 20,
+        "name": "Right hand"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": -40,
+        "name": "Left foot"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": 40,
+        "name": "Right foot"
+      },
+      {
+        "pos_y": -10,
+        "pos_x": -30,
+        "name": "Left elbow"
+      },
+      {
+        "pos_y": -10,
+        "pos_x": 30,
+        "name": "Right elbow"
+      },
+      {
+        "pos_y": 90,
+        "pos_x": -20,
+        "name": "Left knee"
+      },
+      {
+        "pos_y": 90,
+        "pos_x": 20,
+        "name": "Right knee"
+      }
+    ],
+    [
+      {
+        "pos_y": -120,
+        "pos_x": 0,
+        "name": "Head"
+      },
+      {
+        "pos_y": -60,
+        "pos_x": 0,
+        "name": "Shoulders"
+      },
+      {
+        "pos_y": 20,
+        "pos_x": 0,
+        "name": "Hips"
+      },
+      {
+        "pos_y": -90,
+        "pos_x": -60,
+        "name": "Left hand"
+      },
+      {
+        "pos_y": -80,
+        "pos_x": 60,
+        "name": "Right hand"
+      },
+      {
+        "pos_y": 110,
+        "pos_x": -30,
+        "name": "Left foot"
+      },
+      {
+        "pos_y": 110,
+        "pos_x": 30,
+        "name": "Right foot"
+      },
+      {
+        "pos_y": -50,
+        "pos_x": -30,
+        "name": "Left elbow"
+      },
+      {
+        "pos_y": -50,
+        "pos_x": 30,
+        "name": "Right elbow"
+      },
+      {
+        "pos_y": 70,
+        "pos_x": -20,
+        "name": "Left knee"
+      },
+      {
+        "pos_y": 70,
+        "pos_x": 20,
+        "name": "Right knee"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "pos_y": -90,
+        "pos_x": -10,
+        "name": "Head"
+      },
+      {
+        "pos_y": -40,
+        "pos_x": 0,
+        "name": "Shoulders"
+      },
+      {
+        "pos_y": 40,
+        "pos_x": 0,
+        "name": "Hips"
+      },
+      {
+        "pos_y": -140,
+        "pos_x": -80,
+        "name": "Left hand"
+      },
+      {
+        "pos_y": 30,
+        "pos_x": 20,
+        "name": "Right hand"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": -40,
+        "name": "Left foot"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": 40,
+        "name": "Right foot"
+      },
+      {
+        "pos_y": -90,
+        "pos_x": -50,
+        "name": "Left elbow"
+      },
+      {
+        "pos_y": -10,
+        "pos_x": 30,
+        "name": "Right elbow"
+      },
+      {
+        "pos_y": 80,
+        "pos_x": -30,
+        "name": "Left knee"
+      },
+      {
+        "pos_y": 90,
+        "pos_x": 20,
+        "name": "Right knee"
+      }
+    ],
+    [
+      {
+        "pos_y": -90,
+        "pos_x": 0,
+        "name": "Head"
+      },
+      {
+        "pos_y": -40,
+        "pos_x": 0,
+        "name": "Shoulders"
+      },
+      {
+        "pos_y": 40,
+        "pos_x": 10,
+        "name": "Hips"
+      },
+      {
+        "pos_y": 30,
+        "pos_x": 0,
+        "name": "Left hand"
+      },
+      {
+        "pos_y": 30,
+        "pos_x": 30,
+        "name": "Right hand"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": -40,
+        "name": "Left foot"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": 40,
+        "name": "Right foot"
+      },
+      {
+        "pos_y": -10,
+        "pos_x": -10,
+        "name": "Left elbow"
+      },
+      {
+        "pos_y": -10,
+        "pos_x": 40,
+        "name": "Right elbow"
+      },
+      {
+        "pos_y": 80,
+        "pos_x": -30,
+        "name": "Left knee"
+      },
+      {
+        "pos_y": 90,
+        "pos_x": 20,
+        "name": "Right knee"
+      }
+    ],
+    [
+      {
+        "pos_y": -90,
+        "pos_x": 10,
+        "name": "Head"
+      },
+      {
+        "pos_y": -40,
+        "pos_x": 0,
+        "name": "Shoulders"
+      },
+      {
+        "pos_y": 40,
+        "pos_x": 0,
+        "name": "Hips"
+      },
+      {
+        "pos_y": -140,
+        "pos_x": -80,
+        "name": "Left hand"
+      },
+      {
+        "pos_y": 30,
+        "pos_x": 20,
+        "name": "Right hand"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": -40,
+        "name": "Left foot"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": 40,
+        "name": "Right foot"
+      },
+      {
+        "pos_y": -90,
+        "pos_x": -50,
+        "name": "Left elbow"
+      },
+      {
+        "pos_y": -10,
+        "pos_x": 30,
+        "name": "Right elbow"
+      },
+      {
+        "pos_y": 80,
+        "pos_x": -30,
+        "name": "Left knee"
+      },
+      {
+        "pos_y": 90,
+        "pos_x": 20,
+        "name": "Right knee"
+      }
+    ],
+    [
+      {
+        "pos_y": -90,
+        "pos_x": 0,
+        "name": "Head"
+      },
+      {
+        "pos_y": -40,
+        "pos_x": 0,
+        "name": "Shoulders"
+      },
+      {
+        "pos_y": 40,
+        "pos_x": 10,
+        "name": "Hips"
+      },
+      {
+        "pos_y": 30,
+        "pos_x": 0,
+        "name": "Left hand"
+      },
+      {
+        "pos_y": 30,
+        "pos_x": 30,
+        "name": "Right hand"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": -40,
+        "name": "Left foot"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": 40,
+        "name": "Right foot"
+      },
+      {
+        "pos_y": -10,
+        "pos_x": -20,
+        "name": "Left elbow"
+      },
+      {
+        "pos_y": -10,
+        "pos_x": 40,
+        "name": "Right elbow"
+      },
+      {
+        "pos_y": 80,
+        "pos_x": -30,
+        "name": "Left knee"
+      },
+      {
+        "pos_y": 90,
+        "pos_x": 20,
+        "name": "Right knee"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "pos_y": -70,
+        "pos_x": -20,
+        "name": "Head"
+      },
+      {
+        "pos_y": -20,
+        "pos_x": 0,
+        "name": "Shoulders"
+      },
+      {
+        "pos_y": 50,
+        "pos_x": 10,
+        "name": "Hips"
+      },
+      {
+        "pos_y": 10,
+        "pos_x": -40,
+        "name": "Left hand"
+      },
+      {
+        "pos_y": 20,
+        "pos_x": 50,
+        "name": "Right hand"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": -40,
+        "name": "Left foot"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": 40,
+        "name": "Right foot"
+      },
+      {
+        "pos_y": 0,
+        "pos_x": -20,
+        "name": "Left elbow"
+      },
+      {
+        "pos_y": -10,
+        "pos_x": 30,
+        "name": "Right elbow"
+      },
+      {
+        "pos_y": 80,
+        "pos_x": -30,
+        "name": "Left knee"
+      },
+      {
+        "pos_y": 90,
+        "pos_x": 10,
+        "name": "Right knee"
+      }
+    ],
+    [
+      {
+        "pos_y": -90,
+        "pos_x": 0,
+        "name": "Head"
+      },
+      {
+        "pos_y": -40,
+        "pos_x": 0,
+        "name": "Shoulders"
+      },
+      {
+        "pos_y": 40,
+        "pos_x": 0,
+        "name": "Hips"
+      },
+      {
+        "pos_y": 20,
+        "pos_x": -60,
+        "name": "Left hand"
+      },
+      {
+        "pos_y": 20,
+        "pos_x": 60,
+        "name": "Right hand"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": -40,
+        "name": "Left foot"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": 40,
+        "name": "Right foot"
+      },
+      {
+        "pos_y": -10,
+        "pos_x": -30,
+        "name": "Left elbow"
+      },
+      {
+        "pos_y": -10,
+        "pos_x": 30,
+        "name": "Right elbow"
+      },
+      {
+        "pos_y": 90,
+        "pos_x": -20,
+        "name": "Left knee"
+      },
+      {
+        "pos_y": 90,
+        "pos_x": 20,
+        "name": "Right knee"
+      }
+    ],
+    [
+      {
+        "pos_y": -70,
+        "pos_x": 20,
+        "name": "Head"
+      },
+      {
+        "pos_y": -20,
+        "pos_x": 0,
+        "name": "Shoulders"
+      },
+      {
+        "pos_y": 50,
+        "pos_x": -10,
+        "name": "Hips"
+      },
+      {
+        "pos_y": 10,
+        "pos_x": -50,
+        "name": "Left hand"
+      },
+      {
+        "pos_y": 10,
+        "pos_x": 50,
+        "name": "Right hand"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": -40,
+        "name": "Left foot"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": 40,
+        "name": "Right foot"
+      },
+      {
+        "pos_y": -10,
+        "pos_x": -30,
+        "name": "Left elbow"
+      },
+      {
+        "pos_y": 0,
+        "pos_x": 20,
+        "name": "Right elbow"
+      },
+      {
+        "pos_y": 90,
+        "pos_x": -20,
+        "name": "Left knee"
+      },
+      {
+        "pos_y": 80,
+        "pos_x": 30,
+        "name": "Right knee"
+      }
+    ],
+    [
+      {
+        "pos_y": -90,
+        "pos_x": 0,
+        "name": "Head"
+      },
+      {
+        "pos_y": -40,
+        "pos_x": 0,
+        "name": "Shoulders"
+      },
+      {
+        "pos_y": 40,
+        "pos_x": 0,
+        "name": "Hips"
+      },
+      {
+        "pos_y": 20,
+        "pos_x": -60,
+        "name": "Left hand"
+      },
+      {
+        "pos_y": 20,
+        "pos_x": 60,
+        "name": "Right hand"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": -40,
+        "name": "Left foot"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": 40,
+        "name": "Right foot"
+      },
+      {
+        "pos_y": -10,
+        "pos_x": -30,
+        "name": "Left elbow"
+      },
+      {
+        "pos_y": -10,
+        "pos_x": 30,
+        "name": "Right elbow"
+      },
+      {
+        "pos_y": 90,
+        "pos_x": -20,
+        "name": "Left knee"
+      },
+      {
+        "pos_y": 90,
+        "pos_x": 20,
+        "name": "Right knee"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "pos_y": -90,
+        "pos_x": 0,
+        "name": "Head"
+      },
+      {
+        "pos_y": -30,
+        "pos_x": 0,
+        "name": "Shoulders"
+      },
+      {
+        "pos_y": 30,
+        "pos_x": 0,
+        "name": "Hips"
+      },
+      {
+        "pos_y": -60,
+        "pos_x": -40,
+        "name": "Left hand"
+      },
+      {
+        "pos_y": -70,
+        "pos_x": 40,
+        "name": "Right hand"
+      },
+      {
+        "pos_y": 130,
+        "pos_x": -20,
+        "name": "Left foot"
+      },
+      {
+        "pos_y": 130,
+        "pos_x": 20,
+        "name": "Right foot"
+      },
+      {
+        "pos_y": -20,
+        "pos_x": -40,
+        "name": "Left elbow"
+      },
+      {
+        "pos_y": -20,
+        "pos_x": 30,
+        "name": "Right elbow"
+      },
+      {
+        "pos_y": 80,
+        "pos_x": -20,
+        "name": "Left knee"
+      },
+      {
+        "pos_y": 80,
+        "pos_x": 20,
+        "name": "Right knee"
+      }
+    ],
+    [
+      {
+        "pos_y": -90,
+        "pos_x": 0,
+        "name": "Head"
+      },
+      {
+        "pos_y": -30,
+        "pos_x": 0,
+        "name": "Shoulders"
+      },
+      {
+        "pos_y": 30,
+        "pos_x": 10,
+        "name": "Hips"
+      },
+      {
+        "pos_y": -30,
+        "pos_x": -90,
+        "name": "Left hand"
+      },
+      {
+        "pos_y": -30,
+        "pos_x": -40,
+        "name": "Right hand"
+      },
+      {
+        "pos_y": 130,
+        "pos_x": -20,
+        "name": "Left foot"
+      },
+      {
+        "pos_y": 130,
+        "pos_x": 20,
+        "name": "Right foot"
+      },
+      {
+        "pos_y": -20,
+        "pos_x": -40,
+        "name": "Left elbow"
+      },
+      {
+        "pos_y": -20,
+        "pos_x": 20,
+        "name": "Right elbow"
+      },
+      {
+        "pos_y": 80,
+        "pos_x": -10,
+        "name": "Left knee"
+      },
+      {
+        "pos_y": 80,
+        "pos_x": 20,
+        "name": "Right knee"
+      }
+    ],
+    [
+      {
+        "pos_y": -90,
+        "pos_x": 0,
+        "name": "Head"
+      },
+      {
+        "pos_y": -30,
+        "pos_x": 0,
+        "name": "Shoulders"
+      },
+      {
+        "pos_y": 30,
+        "pos_x": 20,
+        "name": "Hips"
+      },
+      {
+        "pos_y": -30,
+        "pos_x": -80,
+        "name": "Left hand"
+      },
+      {
+        "pos_y": 0,
+        "pos_x": -20,
+        "name": "Right hand"
+      },
+      {
+        "pos_y": 130,
+        "pos_x": -20,
+        "name": "Left foot"
+      },
+      {
+        "pos_y": 130,
+        "pos_x": 20,
+        "name": "Right foot"
+      },
+      {
+        "pos_y": -10,
+        "pos_x": -40,
+        "name": "Left elbow"
+      },
+      {
+        "pos_y": -20,
+        "pos_x": 20,
+        "name": "Right elbow"
+      },
+      {
+        "pos_y": 80,
+        "pos_x": -10,
+        "name": "Left knee"
+      },
+      {
+        "pos_y": 80,
+        "pos_x": 20,
+        "name": "Right knee"
+      }
+    ],
+    [
+      {
+        "pos_y": -90,
+        "pos_x": 0,
+        "name": "Head"
+      },
+      {
+        "pos_y": -30,
+        "pos_x": 0,
+        "name": "Shoulders"
+      },
+      {
+        "pos_y": 40,
+        "pos_x": 20,
+        "name": "Hips"
+      },
+      {
+        "pos_y": 10,
+        "pos_x": -40,
+        "name": "Left hand"
+      },
+      {
+        "pos_y": 0,
+        "pos_x": 10,
+        "name": "Right hand"
+      },
+      {
+        "pos_y": 130,
+        "pos_x": -20,
+        "name": "Left foot"
+      },
+      {
+        "pos_y": 130,
+        "pos_x": 20,
+        "name": "Right foot"
+      },
+      {
+        "pos_y": -20,
+        "pos_x": -40,
+        "name": "Left elbow"
+      },
+      {
+        "pos_y": -20,
+        "pos_x": 30,
+        "name": "Right elbow"
+      },
+      {
+        "pos_y": 80,
+        "pos_x": -10,
+        "name": "Left knee"
+      },
+      {
+        "pos_y": 80,
+        "pos_x": 20,
+        "name": "Right knee"
+      }
+    ],
+    [
+      {
+        "pos_y": -90,
+        "pos_x": 0,
+        "name": "Head"
+      },
+      {
+        "pos_y": -30,
+        "pos_x": 0,
+        "name": "Shoulders"
+      },
+      {
+        "pos_y": 30,
+        "pos_x": 0,
+        "name": "Hips"
+      },
+      {
+        "pos_y": -110,
+        "pos_x": -50,
+        "name": "Left hand"
+      },
+      {
+        "pos_y": -110,
+        "pos_x": 50,
+        "name": "Right hand"
+      },
+      {
+        "pos_y": 130,
+        "pos_x": -20,
+        "name": "Left foot"
+      },
+      {
+        "pos_y": 130,
+        "pos_x": 20,
+        "name": "Right foot"
+      },
+      {
+        "pos_y": -40,
+        "pos_x": -30,
+        "name": "Left elbow"
+      },
+      {
+        "pos_y": -50,
+        "pos_x": 30,
+        "name": "Right elbow"
+      },
+      {
+        "pos_y": 80,
+        "pos_x": -20,
+        "name": "Left knee"
+      },
+      {
+        "pos_y": 80,
+        "pos_x": 20,
+        "name": "Right knee"
+      }
+    ],
+    [
+      {
+        "pos_y": -90,
+        "pos_x": 0,
+        "name": "Head"
+      },
+      {
+        "pos_y": -30,
+        "pos_x": 0,
+        "name": "Shoulders"
+      },
+      {
+        "pos_y": 30,
+        "pos_x": -10,
+        "name": "Hips"
+      },
+      {
+        "pos_y": 0,
+        "pos_x": -10,
+        "name": "Left hand"
+      },
+      {
+        "pos_y": 10,
+        "pos_x": 40,
+        "name": "Right hand"
+      },
+      {
+        "pos_y": 130,
+        "pos_x": -20,
+        "name": "Left foot"
+      },
+      {
+        "pos_y": 130,
+        "pos_x": 20,
+        "name": "Right foot"
+      },
+      {
+        "pos_y": -20,
+        "pos_x": -30,
+        "name": "Left elbow"
+      },
+      {
+        "pos_y": -20,
+        "pos_x": 40,
+        "name": "Right elbow"
+      },
+      {
+        "pos_y": 80,
+        "pos_x": -20,
+        "name": "Left knee"
+      },
+      {
+        "pos_y": 80,
+        "pos_x": 10,
+        "name": "Right knee"
+      }
+    ],
+    [
+      {
+        "pos_y": -90,
+        "pos_x": 0,
+        "name": "Head"
+      },
+      {
+        "pos_y": -30,
+        "pos_x": 0,
+        "name": "Shoulders"
+      },
+      {
+        "pos_y": 20,
+        "pos_x": -10,
+        "name": "Hips"
+      },
+      {
+        "pos_y": 0,
+        "pos_x": 20,
+        "name": "Left hand"
+      },
+      {
+        "pos_y": -30,
+        "pos_x": 80,
+        "name": "Right hand"
+      },
+      {
+        "pos_y": 130,
+        "pos_x": -20,
+        "name": "Left foot"
+      },
+      {
+        "pos_y": 130,
+        "pos_x": 20,
+        "name": "Right foot"
+      },
+      {
+        "pos_y": -20,
+        "pos_x": -20,
+        "name": "Left elbow"
+      },
+      {
+        "pos_y": -10,
+        "pos_x": 40,
+        "name": "Right elbow"
+      },
+      {
+        "pos_y": 80,
+        "pos_x": -20,
+        "name": "Left knee"
+      },
+      {
+        "pos_y": 80,
+        "pos_x": 10,
+        "name": "Right knee"
+      }
+    ],
+    [
+      {
+        "pos_y": -90,
+        "pos_x": 0,
+        "name": "Head"
+      },
+      {
+        "pos_y": -30,
+        "pos_x": 0,
+        "name": "Shoulders"
+      },
+      {
+        "pos_y": 20,
+        "pos_x": -10,
+        "name": "Hips"
+      },
+      {
+        "pos_y": -30,
+        "pos_x": 40,
+        "name": "Left hand"
+      },
+      {
+        "pos_y": -30,
+        "pos_x": 90,
+        "name": "Right hand"
+      },
+      {
+        "pos_y": 130,
+        "pos_x": -20,
+        "name": "Left foot"
+      },
+      {
+        "pos_y": 130,
+        "pos_x": 20,
+        "name": "Right foot"
+      },
+      {
+        "pos_y": -20,
+        "pos_x": -20,
+        "name": "Left elbow"
+      },
+      {
+        "pos_y": -20,
+        "pos_x": 40,
+        "name": "Right elbow"
+      },
+      {
+        "pos_y": 80,
+        "pos_x": -20,
+        "name": "Left knee"
+      },
+      {
+        "pos_y": 80,
+        "pos_x": 10,
+        "name": "Right knee"
+      }
+    ],
+    [
+      {
+        "pos_y": -90,
+        "pos_x": 0,
+        "name": "Head"
+      },
+      {
+        "pos_y": -30,
+        "pos_x": 0,
+        "name": "Shoulders"
+      },
+      {
+        "pos_y": 30,
+        "pos_x": 0,
+        "name": "Hips"
+      },
+      {
+        "pos_y": -70,
+        "pos_x": -40,
+        "name": "Left hand"
+      },
+      {
+        "pos_y": -60,
+        "pos_x": 40,
+        "name": "Right hand"
+      },
+      {
+        "pos_y": 130,
+        "pos_x": -20,
+        "name": "Left foot"
+      },
+      {
+        "pos_y": 130,
+        "pos_x": 20,
+        "name": "Right foot"
+      },
+      {
+        "pos_y": -20,
+        "pos_x": -30,
+        "name": "Left elbow"
+      },
+      {
+        "pos_y": -20,
+        "pos_x": 40,
+        "name": "Right elbow"
+      },
+      {
+        "pos_y": 80,
+        "pos_x": -20,
+        "name": "Left knee"
+      },
+      {
+        "pos_y": 80,
+        "pos_x": 20,
+        "name": "Right knee"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "pos_y": -90,
+        "pos_x": 0,
+        "name": "Head"
+      },
+      {
+        "pos_y": -40,
+        "pos_x": 0,
+        "name": "Shoulders"
+      },
+      {
+        "pos_y": 40,
+        "pos_x": 10,
+        "name": "Hips"
+      },
+      {
+        "pos_y": -130,
+        "pos_x": -80,
+        "name": "Left hand"
+      },
+      {
+        "pos_y": -130,
+        "pos_x": 80,
+        "name": "Right hand"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": -40,
+        "name": "Left foot"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": 40,
+        "name": "Right foot"
+      },
+      {
+        "pos_y": -80,
+        "pos_x": -40,
+        "name": "Left elbow"
+      },
+      {
+        "pos_y": -70,
+        "pos_x": 30,
+        "name": "Right elbow"
+      },
+      {
+        "pos_y": 90,
+        "pos_x": -20,
+        "name": "Left knee"
+      },
+      {
+        "pos_y": 90,
+        "pos_x": 20,
+        "name": "Right knee"
+      }
+    ],
+    [
+      {
+        "pos_y": -90,
+        "pos_x": 0,
+        "name": "Head"
+      },
+      {
+        "pos_y": -40,
+        "pos_x": 0,
+        "name": "Shoulders"
+      },
+      {
+        "pos_y": 40,
+        "pos_x": -10,
+        "name": "Hips"
+      },
+      {
+        "pos_y": -130,
+        "pos_x": -80,
+        "name": "Left hand"
+      },
+      {
+        "pos_y": -130,
+        "pos_x": 80,
+        "name": "Right hand"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": -40,
+        "name": "Left foot"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": 40,
+        "name": "Right foot"
+      },
+      {
+        "pos_y": -80,
+        "pos_x": -40,
+        "name": "Left elbow"
+      },
+      {
+        "pos_y": -70,
+        "pos_x": 30,
+        "name": "Right elbow"
+      },
+      {
+        "pos_y": 90,
+        "pos_x": -10,
+        "name": "Left knee"
+      },
+      {
+        "pos_y": 90,
+        "pos_x": 30,
+        "name": "Right knee"
+      }
+    ],
+    [
+      {
+        "pos_y": -90,
+        "pos_x": 0,
+        "name": "Head"
+      },
+      {
+        "pos_y": -40,
+        "pos_x": 0,
+        "name": "Shoulders"
+      },
+      {
+        "pos_y": 40,
+        "pos_x": 10,
+        "name": "Hips"
+      },
+      {
+        "pos_y": -130,
+        "pos_x": -80,
+        "name": "Left hand"
+      },
+      {
+        "pos_y": -100,
+        "pos_x": 40,
+        "name": "Right hand"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": -40,
+        "name": "Left foot"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": 40,
+        "name": "Right foot"
+      },
+      {
+        "pos_y": -80,
+        "pos_x": -40,
+        "name": "Left elbow"
+      },
+      {
+        "pos_y": -60,
+        "pos_x": 50,
+        "name": "Right elbow"
+      },
+      {
+        "pos_y": 90,
+        "pos_x": -20,
+        "name": "Left knee"
+      },
+      {
+        "pos_y": 90,
+        "pos_x": 20,
+        "name": "Right knee"
+      }
+    ],
+    [
+      {
+        "pos_y": -90,
+        "pos_x": 0,
+        "name": "Head"
+      },
+      {
+        "pos_y": -40,
+        "pos_x": 0,
+        "name": "Shoulders"
+      },
+      {
+        "pos_y": 40,
+        "pos_x": -10,
+        "name": "Hips"
+      },
+      {
+        "pos_y": -100,
+        "pos_x": -40,
+        "name": "Left hand"
+      },
+      {
+        "pos_y": -100,
+        "pos_x": 40,
+        "name": "Right hand"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": -40,
+        "name": "Left foot"
+      },
+      {
+        "pos_y": 140,
+        "pos_x": 40,
+        "name": "Right foot"
+      },
+      {
+        "pos_y": -60,
+        "pos_x": -50,
+        "name": "Left elbow"
+      },
+      {
+        "pos_y": -60,
+        "pos_x": 50,
+        "name": "Right elbow"
+      },
+      {
+        "pos_y": 90,
+        "pos_x": -10,
+        "name": "Left knee"
+      },
+      {
+        "pos_y": 90,
+        "pos_x": 30,
+        "name": "Right knee"
+      }
+    ]
+  ]
+]

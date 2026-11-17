@@ -1,0 +1,23 @@
+{
+	"KeyboardControls": [
+		{"key": "a", "keyCode": "65",  "functionName": "selectVisualiserBykeypress", "value" : "1"},
+		{"key": "d", "keyCode": "68",  "functionName": "selectVisualiserBykeypress", "value" : "2"},
+		{"key": "w", "keyCode": "87",  "functionName": "toggleWaveform",             "value" : "0"},
+		{"key": "f", "keyCode": "70",  "functionName": "toggleFPS",                  "value" : "0"},
+		{"key": "i", "keyCode": "73",  "functionName": "toggleInfo",                 "value" : "0"},
+		{"key": "h", "keyCode": "72",  "functionName": "toggleHelp",                 "value" : "0"},
+		{"key": "s", "keyCode": "83",  "functionName": "stickFiguresToggle",         "value" : "0"},
+		{"key": "1", "keyCode": "49",  "functionName": "cueVisualiser",              "value" : "0"},
+		{"key": "2", "keyCode": "50",  "functionName": "toggleVisualiserButton1",    "value" : "0"},
+		{"key": "3", "keyCode": "51",  "functionName": "toggleVisualiserButton2",    "value" : "0"},
+		{"key": "4", "keyCode": "52",  "functionName": "toggleKaleidoscope",         "value" : "0"},
+		{"key": "5", "keyCode": "53",  "functionName": "toggleBackgroundBeatSync",   "value" : "0"},
+		{"key": "6", "keyCode": "54",  "functionName": "switchBackground",           "value" : "0"},
+		{"key": "7", "keyCode": "55",  "functionName": "toggleWordDraw",             "value" : "0"},
+		{"key": "8", "keyCode": "56",  "functionName": "togglePostShader",           "value" : "0"},
+		{"key": "9", "keyCode": "57",  "functionName": "triggerBeatActions",         "value" : "127"},
+		{"key": "0", "keyCode": "48",  "functionName": "stickFiguresNextPositionSet","value" : "0"},
+		{"key": "v", "keyCode": "86",  "functionName": "videoToggle",                "value" : "0"},
+		{"key": "b", "keyCode": "66",  "functionName": "videoBlendMode",             "value" : "0"},
+	]
+}
