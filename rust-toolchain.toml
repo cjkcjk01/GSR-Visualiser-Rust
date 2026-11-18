@@ -1,0 +1,4 @@
+# nannou 0.19 depends on winit 0.28, which uses a pre-release objc2 (0.3.0-beta.3) that
+# Rust 1.100 and later refuse to compile on macOS. Stay on 1.99 until nannou moves on.
+[toolchain]
+channel = "1.99.0"
